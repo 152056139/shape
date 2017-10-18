@@ -1,0 +1,10 @@
+C:\Users\Gray\source\repos\shape\shape\bin\Debug\shape.exe.config
+C:\Users\Gray\source\repos\shape\shape\bin\Debug\shape.exe
+C:\Users\Gray\source\repos\shape\shape\bin\Debug\shape.pdb
+C:\Users\Gray\source\repos\shape\shape\obj\Debug\shape.csprojResolveAssemblyReference.cache
+C:\Users\Gray\source\repos\shape\shape\obj\Debug\shape.Form1.resources
+C:\Users\Gray\source\repos\shape\shape\obj\Debug\shape.Properties.Resources.resources
+C:\Users\Gray\source\repos\shape\shape\obj\Debug\shape.csproj.GenerateResource.Cache
+C:\Users\Gray\source\repos\shape\shape\obj\Debug\shape.csproj.CoreCompileInputs.cache
+C:\Users\Gray\source\repos\shape\shape\obj\Debug\shape.exe
+C:\Users\Gray\source\repos\shape\shape\obj\Debug\shape.pdb
